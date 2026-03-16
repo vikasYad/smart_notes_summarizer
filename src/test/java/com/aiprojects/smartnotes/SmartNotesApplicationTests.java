@@ -1,10 +1,10 @@
-package com.aiprojects.sns;
+package com.aiprojects.smartnotes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SnsApplicationTests {
+class SmartNotesApplicationTests {
 
 	@Test
 	void contextLoads() {
